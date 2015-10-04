@@ -1,0 +1,3 @@
+If you have bibtex and pdflatex installed, just run 'make', report.pdf will be generated.
+
+Content goes in report.tex, citations go in report.bib

@@ -1,0 +1,9 @@
+# pyalsaaudio is manually built for the robot in the wtb_pip directory,
+# but also can be installed on Linux
+pyalsaaudio==0.7
+
+# Linux and OSX (not on robot) requirement to make tests easier to read
+termcolor==1.1.0
+
+# Match versions on the robot as of 9 May 2015, 1.14 toolchain
+numpy==1.6.0

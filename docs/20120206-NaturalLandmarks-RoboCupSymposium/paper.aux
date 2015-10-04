@@ -1,0 +1,61 @@
+\relax 
+\citation{thomas11code}
+\citation{bay2006SURF}
+\citation{bay2008SURF}
+\citation{lowe2004SIFT}
+\@writefile{toc}{\contentsline {title}{Robot Localisation Using Natural Landmarks}{1}}
+\@writefile{toc}{\authcount {4}}
+\@writefile{toc}{\contentsline {author}{Peter Anderson \and Yongki Yusmanthia \and \unskip \ \ignorespaces  Bernhard Hengst \and Arcot Sowmya}{1}}
+\@writefile{toc}{\contentsline {section}{\numberline {1}Introduction}{1}}
+\citation{lowe2004SIFT}
+\citation{bay2006SURF}
+\citation{bay2008SURF}
+\@writefile{toc}{\contentsline {section}{\numberline {2}Background}{2}}
+\newlabel{sec:related}{{2}{2}}
+\citation{juan2009comparison}
+\citation{briggs2004scale}
+\citation{briggs2006robot}
+\citation{briggs2006matching}
+\citation{HarDen55}
+\@writefile{toc}{\contentsline {section}{\numberline {3}1D SURF}{3}}
+\newlabel{sec:1DSURF}{{3}{3}}
+\citation{lowe2004SIFT}
+\citation{briggs2006matching}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces Left: Image captured by the Nao robot showing superimposed 30 pixel horizon band in red, and the extracted grey-scale horizon pixels at the top of the image. Right: Identification of local maxima in scale-space. Pixel 'X' is selected as a maxima if it is greater than the marked pixels around it.}}{4}}
+\newlabel{fig:horizon}{{1}{4}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1}Application to Natural Landmark Recognition}{4}}
+\citation{RANSAC}
+\newlabel{eq:1}{{1}{5}}
+\@writefile{toc}{\contentsline {section}{\numberline {4}Experimental Results}{5}}
+\newlabel{sec:results}{{4}{5}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1}Classification Experiment}{5}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces Left: Matching features in two similar images based on nearest neighbour (NN) matching. Right: Matching features in the same two images after using RANSAC to discard matches that don't agree on a consistent pose (NN with RANSAC). As in Figure 1\hbox {}, each image displays the horizon band in red and the extracted grey-scale horizon pixels at the top of the image. Matching features are plotted in the top-right panel against their horizon location in each image. The text panel illustrates the number of features detected in each image, the number of matches, the recognition score and the time taken to extract the features on a 2.4GHz laptop.}}{6}}
+\newlabel{fig:NN}{{2}{6}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Left: Two images that almost completely overlap. Although the features on the horizon are not very distinctive, a high recognition score is generated using 1D SURF and NN with RANSAC feature matching. Right: Two images with no overlap, resulting in a low recognition score using the same method. As before, matching features are plotted in the top-right panel against their horizon location in each image, and the text panel contains key statistics.}}{7}}
+\newlabel{fig:goodbad}{{3}{7}}
+\@writefile{lot}{\contentsline {table}{\numberline {1}{\ignorespaces Running time of feature extraction and matching algorithms evaluated on a 2.4GHz Core 2 Duo laptop.}}{7}}
+\newlabel{tab:speed}{{1}{7}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}Field Experiment}{7}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces ROC curve for classifying test images as matched or unmatched using the recognition score. Using NN with RANSAC matching on this data set, a threshold recognition score of 100 captured 70\% of true positives with a 5\% false positive rate. }}{8}}
+\newlabel{fig:ROC}{{4}{8}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces Recognition scores of a single goal image from different areas of the field. Clockwise from top left: Recognition of right-hand goal when facing left, recognition of right-hand goal when facing right, recognition of left-hand goal when facing right, recognition of left-hand goal when facing left.}}{9}}
+\newlabel{fig:heatmap}{{5}{9}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6}{\ignorespaces Recognition scores of a single goal image from different areas of the field, with the overhead field lighting turned off, and the goals themselves removed. Clockwise from top left: Recognition of right-hand goal when facing left, recognition of right-hand goal when facing right, recognition of left-hand goal when facing right, recognition of left-hand goal when facing left.}}{10}}
+\newlabel{fig:heatmaphard}{{6}{10}}
+\@writefile{toc}{\contentsline {section}{\numberline {5}Evaluation and Conclusion}{10}}
+\newlabel{sec:conclusions}{{5}{10}}
+\bibstyle{plain}
+\bibdata{hengst}
+\bibcite{bay2008SURF}{1}
+\bibcite{bay2006SURF}{2}
+\bibcite{briggs2004scale}{3}
+\bibcite{briggs2006robot}{4}
+\bibcite{briggs2006matching}{5}
+\bibcite{RANSAC}{6}
+\bibcite{HarDen55}{7}
+\bibcite{juan2009comparison}{8}
+\bibcite{lowe2004SIFT}{9}
+\bibcite{thomas11code}{10}
+\@writefile{toc}{\contentsline {section}{\numberline {6}ACKNOWLEDGEMENTS}{11}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7}{\ignorespaces Top row: Stored images of the left-hand and right-hand goal areas respectively. Row 2: Examples of correctly matched field views. Markers indicate the scale and position of the match. Row 3: Examples of correctly matched views with goals removed and overhead lights turned off. Bottom row: Some field views that could not be confidently matched to the stored images, possibly due to overexposure and occlusion of key features respectively.}}{12}}
+\newlabel{fig:examples}{{7}{12}}

@@ -1,0 +1,48 @@
+# HY   HP   LSP  LSR  LEY  LER  LWY  LH   LHYP LHR  LHP  LKP  LAP  LAR  RHR  RHP  RKP  RAP  RAR  RSP  RSR  REY  RER  RWY  RH   DUR
+  0   0  40   21   0.2  -15    0   0  0    0   -80   125  -45  0    0   -80   125   -45  0    40   -21   0.2  15   0   0  300
+
+# open legs to enlarge cover range
+  0    0    30   0    -3   -20  0    0    -67  30   -86  111  15   -19  -30  -86  111  15   19   30   -0   3    20   0    0    300
+
+# wider and arms inbetween legs  
+  0    0    42   -21  78   -44  -45  0    -67  17   -89  63   56   -7   -17  -89  63   56   6    42   21   -78  44   45   0    300
+
+# pause and limp legs
+  0    0    42   -21  78   -44  -45  0    -67  17   -89  63   56   -7   -17  -89  63   56   6    42   21   -78  44   45   0    1200
+$ 1    1    1    1    1     1    1   1    0    0    0    0    0    0    0    0    0    0    0    1    1    1    1    1    1 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

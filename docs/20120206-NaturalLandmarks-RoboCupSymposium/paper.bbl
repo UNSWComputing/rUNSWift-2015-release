@@ -1,0 +1,61 @@
+\begin{thebibliography}{10}
+
+\bibitem{bay2008SURF}
+H.~Bay, A.~Ess, T.~Tuytelaars, and L.~{Van Gool}.
+\newblock Speeded-up robust features (surf).
+\newblock {\em Computer Vision and Image Understanding}, 110(3):346--359, 2008.
+
+\bibitem{bay2006SURF}
+H.~Bay, T.~Tuytelaars, and L.~{Van Gool}.
+\newblock Surf: Speeded up robust features.
+\newblock {\em Computer Vision--ECCV 2006}, pages 404--417, 2006.
+
+\bibitem{briggs2004scale}
+A.~Briggs, C.~Detweiler, P.~Mullen, and D.~Scharstein.
+\newblock Scale-space features in 1d omnidirectional images.
+\newblock In {\em Omnivis 2004, the Fifth Workshop on Omnidirectional Vision,
+  Prague, Czech Republic}, pages 115--126, 2004.
+
+\bibitem{briggs2006robot}
+A.~Briggs, Y.~Li, D.~Scharstein, and M.~Wilder.
+\newblock Robot navigation using 1d panoramic images.
+\newblock In {\em Robotics and Automation, 2006. ICRA 2006. Proceedings 2006
+  IEEE International Conference on}, pages 2679--2685. IEEE, 2006.
+
+\bibitem{briggs2006matching}
+A.J. Briggs, C.~Detweiler, Y.~Li, P.C. Mullen, and D.~Scharstein.
+\newblock Matching scale-space features in 1d panoramas.
+\newblock {\em Computer vision and image understanding}, 103(3):184--195, 2006.
+
+\bibitem{RANSAC}
+M.~A. Fischler and R.~C. Bolles.
+\newblock Random sample consensus: {A} paradigm for model fitting with
+  applications to image analysis and automated cartography.
+\newblock {\em Communications of the ACM}, 24(6):381--395, June 1981.
+
+\bibitem{HarDen55}
+R.~S. Hartenberg and J.~Denavit.
+\newblock A kinematic notation for lower pair mechanisms based on matrices.
+\newblock {\em Journal of Applied Mechanics}, 77:215--221, 1955.
+
+\bibitem{juan2009comparison}
+L.~Juan and O.~Gwun.
+\newblock A comparison of sift, pca-sift and surf.
+\newblock {\em International Journal of Image Processing (IJIP)},
+  3(4):143--152, 2009.
+
+\bibitem{lowe2004SIFT}
+D.G. Lowe.
+\newblock Distinctive image features from scale-invariant keypoints.
+\newblock {\em International journal of computer vision}, 60(2):91--110, 2004.
+
+\bibitem{thomas11code}
+Thomas R{\"o}fer, Tim Laue, Judith M{\"u}ller, Alexander Fabisch, Fynn
+  Feldpausch, Katharina Gillmann, Colin Graf, Thijs~Jeffry de~Haas, Alexander
+  H{\"a}rtl, Arne Humann, Daniel Honsel, Philipp Kastner, Tobias Kastner,
+  Carsten K{\"o}nemann, Benjamin Markowsky, Ole Jan~Lars Riemann, and Felix
+  Wenk.
+\newblock B-human team report and code release 2011.
+\newblock http://www.b-human.de/publications/, 2011.
+
+\end{thebibliography}

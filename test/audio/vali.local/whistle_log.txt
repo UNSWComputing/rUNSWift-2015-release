@@ -1,0 +1,126 @@
+--------------------2015-07-17T10:48:29.689345--------------------
+IOError: [Errno 5] Input/output error
+Traceback (most recent call last):
+  File "whistle_detector.py", line 621, in <module>
+    run_on_nao()
+  File "whistle_detector.py", line 146, in wrap
+    result = func(*args, **kwargs)
+  File "whistle_detector.py", line 473, in run_on_nao
+    detector.listen_forever()
+  File "whistle_detector.py", line 378, in listen_forever
+    audio_buffer=audio_buffer
+  File "whistle_detector.py", line 402, in process_buffer
+    self.find_whistle(sound_data, num_channels, time_stamp)
+  File "whistle_detector.py", line 325, in find_whistle
+    self.state.interrogate(spectrum)
+  File "whistle_detector.py", line 229, in interrogate
+    stdout.flush()
+IOError: [Errno 5] Input/output error
+
+Unknown crash detected ^_^
+
+--------------------2015-07-17T10:48:30.739592--------------------
+IOError: [Errno 5] Input/output error
+Traceback (most recent call last):
+  File "whistle_detector.py", line 621, in <module>
+    run_on_nao()
+  File "whistle_detector.py", line 146, in wrap
+    result = func(*args, **kwargs)
+  File "whistle_detector.py", line 473, in run_on_nao
+    detector.listen_forever()
+  File "whistle_detector.py", line 378, in listen_forever
+    audio_buffer=audio_buffer
+  File "whistle_detector.py", line 402, in process_buffer
+    self.find_whistle(sound_data, num_channels, time_stamp)
+  File "whistle_detector.py", line 325, in find_whistle
+    self.state.interrogate(spectrum)
+  File "whistle_detector.py", line 229, in interrogate
+    stdout.flush()
+IOError: [Errno 5] Input/output error
+
+Unknown crash detected ^_^
+
+--------------------2015-07-17T10:48:31.763059--------------------
+IOError: [Errno 5] Input/output error
+Traceback (most recent call last):
+  File "whistle_detector.py", line 621, in <module>
+    run_on_nao()
+  File "whistle_detector.py", line 146, in wrap
+    result = func(*args, **kwargs)
+  File "whistle_detector.py", line 473, in run_on_nao
+    detector.listen_forever()
+  File "whistle_detector.py", line 378, in listen_forever
+    audio_buffer=audio_buffer
+  File "whistle_detector.py", line 402, in process_buffer
+    self.find_whistle(sound_data, num_channels, time_stamp)
+  File "whistle_detector.py", line 325, in find_whistle
+    self.state.interrogate(spectrum)
+  File "whistle_detector.py", line 229, in interrogate
+    stdout.flush()
+IOError: [Errno 5] Input/output error
+
+Unknown crash detected ^_^
+
+--------------------2015-07-17T10:49:25.217805--------------------
+IOError: [Errno 5] Input/output error
+Traceback (most recent call last):
+  File "whistle_detector.py", line 621, in <module>
+    run_on_nao()
+  File "whistle_detector.py", line 146, in wrap
+    result = func(*args, **kwargs)
+  File "whistle_detector.py", line 473, in run_on_nao
+    detector.listen_forever()
+  File "whistle_detector.py", line 378, in listen_forever
+    audio_buffer=audio_buffer
+  File "whistle_detector.py", line 402, in process_buffer
+    self.find_whistle(sound_data, num_channels, time_stamp)
+  File "whistle_detector.py", line 325, in find_whistle
+    self.state.interrogate(spectrum)
+  File "whistle_detector.py", line 229, in interrogate
+    stdout.flush()
+IOError: [Errno 5] Input/output error
+
+Unknown crash detected ^_^
+
+--------------------2015-07-17T10:49:26.272093--------------------
+IOError: [Errno 5] Input/output error
+Traceback (most recent call last):
+  File "whistle_detector.py", line 621, in <module>
+    run_on_nao()
+  File "whistle_detector.py", line 146, in wrap
+    result = func(*args, **kwargs)
+  File "whistle_detector.py", line 473, in run_on_nao
+    detector.listen_forever()
+  File "whistle_detector.py", line 378, in listen_forever
+    audio_buffer=audio_buffer
+  File "whistle_detector.py", line 402, in process_buffer
+    self.find_whistle(sound_data, num_channels, time_stamp)
+  File "whistle_detector.py", line 325, in find_whistle
+    self.state.interrogate(spectrum)
+  File "whistle_detector.py", line 229, in interrogate
+    stdout.flush()
+IOError: [Errno 5] Input/output error
+
+Unknown crash detected ^_^
+
+--------------------2015-07-17T10:49:27.291332--------------------
+IOError: [Errno 5] Input/output error
+Traceback (most recent call last):
+  File "whistle_detector.py", line 621, in <module>
+    run_on_nao()
+  File "whistle_detector.py", line 146, in wrap
+    result = func(*args, **kwargs)
+  File "whistle_detector.py", line 473, in run_on_nao
+    detector.listen_forever()
+  File "whistle_detector.py", line 378, in listen_forever
+    audio_buffer=audio_buffer
+  File "whistle_detector.py", line 402, in process_buffer
+    self.find_whistle(sound_data, num_channels, time_stamp)
+  File "whistle_detector.py", line 325, in find_whistle
+    self.state.interrogate(spectrum)
+  File "whistle_detector.py", line 229, in interrogate
+    stdout.flush()
+IOError: [Errno 5] Input/output error
+
+Unknown crash detected ^_^
+

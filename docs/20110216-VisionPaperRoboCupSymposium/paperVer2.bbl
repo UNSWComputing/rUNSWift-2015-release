@@ -1,0 +1,57 @@
+\begin{thebibliography}{1}
+
+\bibitem{hengst10robocup}
+Jayen Ashar, David Claridge, Brad Hall, Bernhard Hengst, Hung Nguyen, Maurice
+  Pagnucco, Adrian Ratter, Stuart Robinson, Claude Sammut, Benjamin Vance,
+  Brock White, and Yanjin Zhu.
+\newblock {R}obo{C}up standard platform league - r{UNSW}ift 2010.
+\newblock In {\em Australasian Conference on Robotics and Automation}, 2010.
+
+\bibitem{724279}
+P.~Camacho, F.~Arrebola, and F.~Sandoval.
+\newblock Multiresolution sensors with adaptive structure.
+\newblock In {\em Industrial Electronics Society, 1998. IECON '98. Proceedings
+  of the 24th Annual Conference of the IEEE}, 1998.
+
+\bibitem{Fischler:1981:RSC:358669.358692}
+Martin~A. Fischler and Robert~C. Bolles.
+\newblock Random sample consensus: a paradigm for model fitting with
+  applications to image analysis and automated cartography.
+\newblock {\em Commun. ACM}, 24:381--395, June 1981.
+
+\bibitem{north2005object}
+A.~North.
+\newblock {\em {Object recognition from sub-sampled image processing}}.
+\newblock Honours thesis, The University of New South Wales, 2005.
+
+\bibitem{robocupurl}
+Board of~Trustees.
+\newblock Robocup http://www.robocup.org/.
+
+\bibitem{kimcuongpham}
+Kim~Cuong Pham.
+\newblock {\em {Incremental learning of vision recognition using ripple down
+  rules.}}
+\newblock Honours thesis, The University of New South Wales, 2005.
+
+\bibitem{cse10rUNSWift2010}
+Adrian Ratter, Bernhard Hengst, Brad Hall, Brock White, Benjamin Vance, David
+  Claridge, Hung Nguyen, Jayen Ashar, Stuart Robinson, and Yanjin Zhu.
+\newblock r{UNSW}ift team report 2010 robocup standard platform league.
+\newblock Technical report, School of Computer Science and Engineering,
+  University of New South Wales, 2010.
+
+\bibitem{thomas09code}
+Thomas R{\"o}fer, Tim Laue, Judith M{\"u}ller, Oliver B{\"o}sche, Armin
+  Burchardt, Erik Damrose, Katharina Gillmann, Colin Graf, Thijs~Je ry~de Haas,
+  Alexander H{\"a}rtl, Andrik Rieskamp, Andr{\'e} Schreck, Ingo Sieverdingbeck,
+  and Jan-Hendrik Worch.
+\newblock B-human team report and code release 2009.
+\newblock http://www.b-human.de/index.php?s=publications, 2009.
+
+\bibitem{von2004tracking}
+F.~Von~Hundelshausen and R.~Rojas.
+\newblock {Tracking regions}.
+\newblock {\em RoboCup 2003: Robot Soccer World Cup VII}, pages 250--261, 2004.
+
+\end{thebibliography}

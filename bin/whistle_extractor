@@ -1,0 +1,8 @@
+#!/bin/bash
+for robot in "$@"
+do
+   echo "#################"
+   echo -e "\e[32mExtracting whistles from $robot\e[0m"
+   rsync -zvpr nao@$robot:whistle/* $RUNSWIFT_CHECKOUT_DIR/test/audio/$robot
+   echo -e "\e[34mFinished\e[0m"
+done

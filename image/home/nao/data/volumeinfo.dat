@@ -1,0 +1,4 @@
+set 'Capture' unmute
+set 'Capture' 100%
+set 'Master' unmute
+set 'Master' 40%

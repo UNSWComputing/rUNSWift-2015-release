@@ -1,0 +1,25 @@
+Welcome to Off-Nao, the rUNSWift debugging toolsuite.
+
+To build this project, either:
+
+You get lucky and bin/build_setup.sh just works :D
+(verified under Ubuntu 14.04.1 LTS both natively and in VMs; 
+but builds successfully then segfaults at runtime in libGL.so.1
+under fresh download of 14.04.3 LTS @ 15/9/2015 
+according to gdb - so much for Ubuntu being stable).
+
+---OR--- 
+You need Qt4 and probably a bunch of other things like QGLViewer to build it natively:
+
+$ mkdir build
+$ cd build
+$ cmake ..
+$ make
+$ ./offnao
+
+Once you have performed the steps above once, in future you only need to:
+
+$ make
+$ ./offnao
+
+In the 'build' directory

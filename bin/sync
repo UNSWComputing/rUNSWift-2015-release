@@ -1,0 +1,15 @@
+#!/bin/bash
+for robot in "$@"
+do
+   echo "#################"
+   echo -e "\e[32mSyncing to $robot\e[0m"
+   nao_sync -ra $robot
+   rc=$?; 
+   if [[ $rc == 0 ]]; then
+   	echo -e "\e[32mRestarting naoqi\e[0m"
+   	nao_run -r nao@$robot
+   else
+	echo -e "\e[31mUnable to sync likely robot is off network\e[0m"
+   fi
+   echo -e "\e[34mFinished\e[0m"
+done
