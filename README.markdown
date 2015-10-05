@@ -1,6 +1,6 @@
 Welcome to the rUNSWift 2015 git repository.
 
-The [wiki](https://github.com/UNSWComputing/rUNSWift/wiki/) holds the documentation.
+The [wiki](../../wiki) holds the documentation.
 
 Of note:
 
