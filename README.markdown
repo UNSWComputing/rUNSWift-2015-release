@@ -4,5 +4,5 @@ The [wiki](https://github.com/UNSWComputing/rUNSWift/wiki/) holds the documentat
 
 Of note:
 
-* [Build Instructions](https://github.com/UNSWComputing/rUNSWift/wiki/Build-Instructions)
+* [Getting Started](../../wiki/Getting-Started)
 * [Developer's Quick Guide](https://github.com/UNSWComputing/rUNSWift/wiki/Developer%27s-Quick-Guide)
