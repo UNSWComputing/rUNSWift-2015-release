@@ -1,6 +1,14 @@
-Copyright 2010 The University of New South Wales (UNSW).
+If this code release, or any part of it, is used in a Robocup competition,
+the usage should be announced to the SPL teams mailing list one month
+before the start of the competition. The announcement should outline
+which parts of the code release are being used and the contributions
+that the team has made to the system. It is expected that any team that
+uses this code release as part of a Robocup entry will also strive to
+make their own significant contributions to the Robocup goal.
 
-This repository is part of the 2010 team rUNSWift RoboCup entry. You may
+Copyright 2015 The University of New South Wales (UNSW).
+
+This repository is part of the 2015 team rUNSWift RoboCup entry. You may
 redistribute it and/or modify it under the terms of the GNU General
 Public License as published by the Free Software Foundation; either
 version 2 of the License, or (at your option) any later version as
