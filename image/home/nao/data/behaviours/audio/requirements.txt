@@ -6,4 +6,4 @@ pyalsaaudio==0.7
 termcolor==1.1.0
 
 # Match versions on the robot as of 9 May 2015, 1.14 toolchain
-numpy==1.6.0
+numpy==1.21.0
